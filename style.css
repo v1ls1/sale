@@ -1,0 +1,29 @@
+body {
+	font-family: Verdana;
+	font-size: 12px;
+	color: #534C2D;
+	background-color: #ffffff;
+	margin: 0; padding: 0;
+}
+.main_form {width: 250px; margin: 0px;}
+img {border: 0px;}
+form {margin: 0px; padding: 0px;}
+input, select, textarea {
+	font: 11px Tahoma; 
+	background: #FFFFFF; 
+	border: 1px solid #C8C8C8;
+	padding: 2px;
+	color: #666666;
+	text-decoration: none !important;
+}
+A:link, A:visited {color: #855E00; text-decoration: none;}
+A:active, A:hover {color: #855E00; text-decoration: underline;}
+
+A.menu:link, A.menu:visited {color: #00448D; text-decoration: none;}
+A.menu:active, A.menu:hover {color: #01742D; text-decoration: none;}
+
+A.bot_menu:link, A.bot_menu:visited {color: #00448D; text-decoration: none;}
+A.bot_menu:active, A.bot_menu:hover {color: #00448D; text-decoration: underline;}
+
+A.news:link, A.news:visited {color: #5D4F11; text-decoration: underline;}
+A.news:active, A.news:hover {color: #5D4F11; text-decoration: none;}
